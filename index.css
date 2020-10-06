@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(142, 142, 252);
+}
+#search  {
+        background-color: blueviolet;
+        padding: 50px;
+
+}
+.des {
+    padding: 1em;
+    border-style: solid;
+    border-radius: 2%;
+    color :black;
+    background-color: rgb(97, 97, 202);
+}
+
+.imag{
+    padding: 2%;
+    border-style: solid;
+    border-radius: 2%;
+}
